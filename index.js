@@ -1,5 +1,6 @@
-var recipes = {latte:'espresso'};
+var obj = {coffee:'espresso'};
+var newObj = {milk: 'twoPercent'}
 
 updateObjectWithKeyAndValue(object, key, value){
-  object.assign({milk}, latte)
+  object.assign({milk}, coffee)
 };
