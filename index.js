@@ -1,4 +1,2 @@
-var object = {latte};
+var recipes = {latte:'espresso'};
 
-updateObjectWithKeyAndValue(object, key, value){
-}
